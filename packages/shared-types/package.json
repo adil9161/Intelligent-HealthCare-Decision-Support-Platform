@@ -1,0 +1,14 @@
+{
+  "name": "@aegishealth/shared-types",
+  "version": "1.0.0",
+  "description": "Shared TypeScript and data models for AegisHealth AI Decision Support Platform",
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["healthcare", "triage", "ai", "types"],
+  "author": "NIET Greater Noida - B.Tech CSE AI",
+  "license": "MIT"
+}
